@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Uganda Hotel Industry</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Uganda Hotel Industry</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="challenges.html">Challenges</a>
+    <a href="solutions.html">Solutions</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h2>Challenges & Solutions for Hotel Owners in Uganda</h2>
+  <p>Promoting sustainable growth in the hospitality sector</p>
+</section>
+
+<section class="content">
+  <h3>Overview</h3>
+  <p>
+    Hotels play a vital role in Uganda’s tourism and economic development.
+    However, many hotel owners face challenges such as high taxes, limited financing,
+    poor infrastructure, and low occupancy rates.
+  </p>
+</section>
+
+<footer>
+  <p>&copy; 2026 Uganda Hotel Industry</p>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
