@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Solutions</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Solutions</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="challenges.html">Challenges</a>
+  </nav>
+</header>
+
+<section class="grid">
+  <div class="card">Tax incentives and policy reforms</div>
+  <div class="card">Low-interest tourism loans</div>
+  <div class="card">Promotion of domestic tourism</div>
+  <div class="card">Hospitality training programs</div>
+  <div class="card">Infrastructure investment</div>
+  <div class="card">Digital transformation</div>
+</section>
+
+<footer>
+  <p>&copy; 2026 Uganda Hotel Industry</p>
+</footer>
+
+</body>
+</html>
