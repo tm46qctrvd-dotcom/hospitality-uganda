@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>About This Website</h1>
+</header>
+
+<section class="content">
+  <p>
+    This website was created to highlight challenges facing hotel owners in Uganda
+    and propose solutions for sustainable growth.
+  </p>
+</section>
+
+<footer>
+  <p>&copy; 2026 Uganda Hotel Industry</p>
+</footer>
+
+</body>
+</html>
